@@ -22,3 +22,4 @@ while run:
     area(width, height, valid)
     perimiter(width, height, valid)
     run = True if input("Do you want to enter another width and height (Y/N)?: ").lower() == "y" else False
+print("Program Ends")
